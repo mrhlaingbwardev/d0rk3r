@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include d0rk3r_pkg *.py
